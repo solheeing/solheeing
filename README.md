@@ -1,9 +1,7 @@
 ## Hi there 👋
-My name is Eunsori Cho, and I am a Mechanical Engineering student from **Hanyang University**, currently on a leave of absence.  
-I spent one year as an exchange student at **ZHAW** in Switzerland, where I gained international academic and practical experience.
-
-## 🔧 Interests
-I am particularly interested in **mechanical design**, with a focus on developing practical, efficient, and well-structured engineering solutions.
+My name is Eunsori Cho, a Mechanical Engineering student from Hanyang University currently on a leave of absence.
+I completed a one-year exchange program at ZHAW in Switzerland, gaining international academic and practical experience.
+I am currently studying and developing my skills in mechanical design, with a particular interest in robot and automotive design, focusing on practical, efficient, and well-structured engineering solutions.
 
 ## 🛠️ Skills & Tools
 - **CAD / Design Tools**: CATIA, Fusion 360, AutoCAD  
