@@ -1,11 +1,11 @@
 ## Hi there 👋
-My name is Eunsori Cho, a Mechanical Engineering student from Hanyang University currently on a leave of absence.
+My name is Eunsori Cho, a Mechanical Engineering student from Hanyang University.
 I completed a one-year exchange program at ZHAW in Switzerland, gaining international academic and practical experience.
 I am currently studying and developing my skills in mechanical design, with a particular interest in robot and automotive design, focusing on practical, efficient, and well-structured engineering solutions.
 
 ## 🛠️ Skills & Tools
-- **CAD / Design Tools**: CATIA, Fusion 360, AutoCAD  
-- **Programming**: Python (for automation, data handling, and engineering-related applications)
+- **CAD / Design Tools**: CATIA V5, Fusion 360, AutoCAD  
+- **Programming**: Python, Matlab (for automation, data handling, and engineering-related applications)
 
 <!--
 **solheeing/solheeing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
