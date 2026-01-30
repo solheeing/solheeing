@@ -1,6 +1,10 @@
 ## Hi there 👋  
 <img src="img/Header.jpg">
 
+Mechanical Engineering student at Hanyang University.  
+Former exchange student at ZHAW (Switzerland).
+
+
 ## 🔍 Interests
 - Mechanical & Product Design
 - Robotics and Automotive Systems
