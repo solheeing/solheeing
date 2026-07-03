@@ -9,6 +9,7 @@
 ## 🛠️ Skills & Tools
 
 ![CATIA](https://img.shields.io/badge/CATIA-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
+![SOLIDWORKS](https://img.shields.io/badge/SOLIDWORKS-D91C2B?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 ![Fusion 360](https://img.shields.io/badge/Fusion_360-FF6F00?style=for-the-badge&logo=autodesk&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)
 
